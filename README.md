@@ -1,8 +1,8 @@
 # Power BI Projects Portfolio
--
-Welcome to my Power BI projects repository! This collection showcases my work in data analysis and visualization using Microsoft Power BI during my journey at ITI From March 2025 to July 2025.
+
+<small> Welcome to my Power BI projects repository! This collection showcases my work in data analysis and visualization using Microsoft Power BI during my journey at ITI From March 2025 to July 2025.
+
 I aim to demonstrate my proficiency in transforming raw data into actionable insights through interactive dashboards and reports.
----
 
 ## Skills Demonstrated
 
